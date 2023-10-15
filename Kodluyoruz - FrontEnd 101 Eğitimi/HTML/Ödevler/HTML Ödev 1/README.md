@@ -1,4 +1,4 @@
-<h1 align="center">Kodluyoruz - Frontend Web Geliştirme | HTML Ödevi1</h1>
+<h1 align="center">Kodluyoruz - Frontend Web Geliştirme | HTML Ödevi 1</h1>
 Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front End Web Geliştirme" programının HTML dersleri kapsamında yapmış olduğum ilk ödevi sizler ile paylaşıyorum.
 
 ## HTML Ödev1
