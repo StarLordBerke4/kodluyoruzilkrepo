@@ -6,4 +6,4 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front 
 
 <p>Bu ödevde temel html etiketlerini kullanarak hayali markam olan; "HcB Ekmek Fırını" için hazırladığım tanıtım sayfamı sizlere göstermek istiyorum. (Ödev kapsamında içerik bölümünde, kendim ile ilgili temel düzeyde bilgiler verdim.) </p>
 
-<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/HTML/%C3%96devler/HTML%20%C3%96dev%202/resimler/HTML%C3%96dev2.png" />
+<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/HTML/%C3%96devler/HTML%20%C3%96dev%203/resim/hcbEkmekF%C4%B1r%C4%B1n%C4%B1.png" />
