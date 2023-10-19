@@ -1,0 +1,40 @@
+.container {
+    /* background-color: #75DDD3; */
+    width: 1000px;
+    margin: auto;
+    padding: auto;
+}
+
+.content{
+    width: 1000px;
+    height: min-content;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.box-1{
+    width: 39%;
+    height: 85px;
+    background-color: #75DDD3;
+    float: left;
+    text-align: center;
+}
+.box-2{
+    width: 20%;
+    height: 85px;
+    background-color: #75DDD3;
+    float: left;
+    margin: 0 1%;
+    text-align: center;
+    font-size: 13px;
+}
+.box-3{
+    width: 39%;
+    height: 85px;
+    background-color: #75DDD3;
+    float: left;
+    text-align: center;
+}
+.clear {
+    clear: both;
+}

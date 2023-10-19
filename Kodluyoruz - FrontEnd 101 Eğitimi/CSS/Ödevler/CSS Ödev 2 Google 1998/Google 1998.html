@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=!, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="Google 1998.css">
+</head>
+<body>
+
+    <!-- Önce sayfamızın ana yapılarının içinde bulunacağı ".Container" class'ımızı oluturalım.-->
+    <div class="container">
+        <!-- Sayfanın dört bölümden oluştuğunu gözlemledim o yüzden 4 alt class oluşturalım -->
+        <!-- Google resim bulunan class -->
+        <div class="Content">
+            <img style="display: block; margin: auto;" src="img/google.jpg" alt="Google 1998">
+            <!-- Burda "img" etiketine; inline css tanımladım "Style" özeliği ile. Ardından "display: block;" ve "margin: auto;" özelliklerini kulanarak gerekli boşlukları vererek logoyu sayfada ortaladım.
+
+            Not: "display:block;"" özelliği bir öğenin block-level olmasını sağlar. block-level öğeler h1, p, div gibi, her hangi başka bir dışarıdan CSS etkisi olmadığı takdirde alt alta sıralanacaktır.-->  
+        </div>
+        <!-- Google arama kutusu ve arama butonlarının olduğu class -->
+        <div style="text-align: center; background-color:#EEEEEE;" class="content">
+            Search the web using Google! <br>
+            <input type="text" size="50"> <br>
+            <input type="button" value="Google Search">
+            <input type="button" value="I'm feeling lucy">
+            <!-- Bu bölümde "imput" etiketlerini kullandım. Çünkü veri girişi alanı belirlenirken kullanılması gerekn bir etikettir.
+            
+            Ardından "type" özelliği içinde text ve button değerlerini tanımladım. Bu sayedi tıklanabilir butonlar oluşturdum.Burda yapmaya çalıştığım giriş alanını belirlemektir. 
+
+            Ardından "value" özelliğini kullanarak giriş alanının değerini belirtim. Bu değer metin cinsindendir.-->
+        </div>
+        <!-- Link lerin olduğu üç kutulu bölüm (altına üç ayrı class oluşturalım) -->
+        <div class="content">
+            <div class="box-1">
+                Special Searches <br>
+                <a href="">Standford Search</a> <br>
+                <a href="">Linux Search</a>
+            </div>
+            <div class="box-2" >
+                <a href="">Help!</a> <br>
+                <a href="">About Google!</a><br>
+                <a href="">Company Info</a><br>
+                <a href="">Google! Logos</a>
+            </div>
+            <div class="box-3">
+                Get Google! <br>
+                updates monthly: <br>
+                <input type="text" value="your e-mail" size="30"><br>
+                <input type="button" value="Subscribe">
+                <a href="">Archive</a>
+                <!-- Bu bölümde ise linklerin bulunduğu kutucukları ve içindeki ögeleri derledim. 3 kutudan oluşan bir bölüm olduğu için box-1, box-2, box-3 şeklide 3 class tanımlayarak çalıştım.-->
+            </div>
+        </div>
+        <div class="clear"></div>
+        <!-- Son bölüm Firma Bilgileri -->
+        <div class="content" style="text-align: center;">
+            <p><i>Copyright ©1998 Google Inc.</i></p>
+            <p><i>Web Geliştirme/Web Tasarım: Berke Mert Öztürk</i></p>
+            <a href="https://www.youtube.com/@sibermega">SiberMega YouTube Kanalım</a>
+        <!-- Bu bölümde ise footer bölümü yer almaktadır. Biraz firma biraz ise kendim hakında bilgi verdim.-->
+        </div>
+    </div>
+</body
+</html>
