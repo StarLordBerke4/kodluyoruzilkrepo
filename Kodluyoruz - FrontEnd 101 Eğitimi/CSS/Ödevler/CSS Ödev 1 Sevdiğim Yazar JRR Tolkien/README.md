@@ -2,7 +2,7 @@
 Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front End Web Geliştirme" programının CSS dersleri kapsamında yapmış olduğum ilk ödevi sizler ile paylaşıyorum.
 
 ## CSS Ödev1
-<h3 align="left">1-)Sevdiğim Yazar JRR Tolkien | Ödev2</h3>
+<h3 align="left">1-)Sevdiğim Yazar JRR Tolkien | Ödev1</h3>
 
 <p>Bu ödevde temel "html" etiketlerini ve "css" etiketlerini kullanarak; sevdiğim edebiyat yazarı ve ortadünya evrenin kurucusu olan JRR Tolkien'i tanıttığım bir web sayfası hazırlamış bulunmaktayım. İncleyebilirsiniz.</p>
 
