@@ -1,4 +1,4 @@
-<h1 align="center">Kodluyoruz - Frontend Web Geliştirme | CSS Ödevi 3</h1>
+<h1 align="center">Kodluyoruz - Frontend Web Geliştirme | CSS Ödevi 2</h1>
 Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front End Web Geliştirme" programının CSS dersleri kapsamında yapmış olduğum ikinci ödevi sizler ile paylaşıyorum.
 
 ## CSS Ödev2
