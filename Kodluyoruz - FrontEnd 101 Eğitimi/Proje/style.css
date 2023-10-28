@@ -1,0 +1,160 @@
+/* CSS Kodları*/
+
+/* Sayfa Boşluklarını Sıfırlama*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* CSS Kodları */
+
+#sayfa {
+
+    width: 1600px;
+    min-height: 800px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+/*Banner*/
+
+#banner {
+    width: 1597px;
+    height: 230px;
+    border-style: none;
+    border-width: 1px;
+    background-color: burlywood;
+    margin: auto;
+}
+
+/*Logo*/
+
+#logo {
+    width: 200px;
+    height: 180px;
+    border-style: none;
+    border-width: 1px;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    float: left;
+}
+
+/* Sosyal Medya İkonları */
+
+#sosyal {
+    width: 420px;
+    height: 80px;
+    border-style: none;
+    border-width: 1px;
+    position: relative;
+    top: 70px;
+    right: 50px;
+    float: right;
+}
+
+#ikon {
+    float: right;
+    margin: 2px;
+}
+
+/*Ana Menü*/
+
+#anamenu {
+    width: 1597px;
+    height: 100px;
+    border-style: none;
+    border-width: 1px;
+    background-color: #4E4D45;
+    margin: auto;
+}
+
+#anamenu ul {
+    list-style-type: none;
+}
+
+#anamenu ul li {
+    width: 120px;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: black;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    position: relative;
+    left: 480px;
+    top: 12px;
+    background-color: white;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#anamenu  ul a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+#anamenu  ul a:link {
+    color: black;
+}
+
+#anamenu  ul a:visited {
+    color: brown;
+}
+
+#anamenu  ul a:hover {
+    color: salmon;
+    text-decoration: underline;
+}
+
+/*İçerik ve Yan Menü Kodları*/
+
+#yanmenu {
+    width: 398px;
+    height: 2534px;
+    border-style: none;
+    border-width: 1px;
+    background-color: #9FA38C;
+    float: left;
+}
+
+#icerik {
+    width: 1200px;
+    min-height: 2500px;
+    border-style: none;
+    border-width: 1px;
+    background-color: #F2F5ED;
+    float: left;
+}
+
+/*Alt Menü Footer*/
+
+#altmenu {
+    width: 1600px;
+    min-height: 80px;
+    border-style: none;
+    border-width: 1px;
+    background-color: burlywood;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    vertical-align: middle;
+    color: black;
+}
+
+#alt {
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: black;
+    background-color: white;
+    font-size: 22px;
+    font-weight: bold;
+    width: 140px;
+    padding: 10px;
+    margin: 10px;
+}
