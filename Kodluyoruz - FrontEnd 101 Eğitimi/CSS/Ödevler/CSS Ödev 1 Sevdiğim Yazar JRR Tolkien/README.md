@@ -7,3 +7,5 @@ Bu bölümde "Kodluyoruz" kapsamında aldığım "Yazılıma İlk Adım - Front 
 <p>Bu ödevde temel "html" etiketlerini ve "css" etiketlerini kullanarak; sevdiğim edebiyat yazarı ve ortadünya evrenin kurucusu olan JRR Tolkien'i tanıttığım bir web sayfası hazırlamış bulunmaktayım. İncleyebilirsiniz.</p>
 
 <img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/CSS/%C3%96devler/CSS%20%C3%96dev%201%20Sevdi%C4%9Fim%20Yazar%20JRR%20Tolkien/CSS%C3%96dev1.png" />
+<br>
+<img src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/Kodluyoruz%20-%20FrontEnd%20101%20E%C4%9Fitimi/CSS/%C3%96devler/CSS%20%C3%96dev%201%20Sevdi%C4%9Fim%20Yazar%20JRR%20Tolkien/resimler/hakk%C4%B1nda2.png" />
