@@ -47,4 +47,4 @@
 - <b>Sertifika URL:</b> https://drive.google.com/file/d/1VCLWZbTF_cdN8otk44O4xlWyp4tKnJrZ/view?usp=drive_link
 - <b>Linkedin Profil URL:</b> https://www.linkedin.com/in/starlordberke/
 
-<a href=""><img align="center" src="https://github.com/StarLordBerke4/-BM-Kodluyoruz/blob/main/%C4%B0mages/kodluyoruz_cover.jpg" alt="İBM" width="1100"/></a>
+<a href=""><img align="center" src="https://github.com/StarLordBerke4/kodluyoruzilkrepo/blob/main/%C4%B0mages/kodluyoruz_cover.jpg" alt="Kodluyoruz Banner" width="1100"/></a>
